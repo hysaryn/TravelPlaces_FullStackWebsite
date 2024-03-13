@@ -1,6 +1,6 @@
 # TravelPlaces Full Stack Website
 
-Welcome to the TravelPlaces Full Stack Website! This project comprises both frontend and backend components to create a comprehensive platform for managing travel destinations and user accounts.
+Welcome to the TravelPlaces Full Stack Website! This platform integrates both frontend and backend components, enabling users to log their visited destinations and explore places recorded by other users.
 
 ## Getting Started
 
